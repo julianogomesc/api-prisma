@@ -87,6 +87,7 @@ For start the server in develop mode (with `nodemon` for automatic charge):
 
 ```bash
 npm run dev
+```
 
 ## ▶️ How run the Test
 ```bash
